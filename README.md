@@ -4,6 +4,7 @@ Aplikasi Cash Register adalah sebuah solusi modern yang memudahkan pengelolaan t
 
 ### Tentang repositori
 ini bukan repositori untuk develop aplikasi Cash Register, repositori ini hanya menyediakan update terbaru dari aplikasi Cash Register di bagian [Releases](https://github.com/harlansr/Bukittinggi_CashRegister_release/releases
+
 ### Fitur Utama)
 
 - **Transaksi Cepat dan Akurat**: Aplikasi ini memungkinkan pengguna untuk melakukan transaksi dengan cepat dan akurat. Pengguna dapat memasukkan item yang dibeli dan secara otomatis menghitung jumlah pembayaran, mengurangi risiko kesalahan perhitungan.
