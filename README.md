@@ -2,7 +2,9 @@
 
 Aplikasi Cash Register adalah sebuah solusi modern yang memudahkan pengelolaan transaksi keuangan di berbagai usaha di kota tersebut. Aplikasi ini dapat terhubung langsung ke database perpajakan kota, memberikan akses real-time ke informasi perpajakan yang diperlukan dalam setiap transaksi.
 
-### Fitur Utama
+### Tentang repositori
+ini bukan repositori untuk develop aplikasi Cash Register, repositori ini hanya menyediakan update terbaru dari aplikasi Cash Register di bagian [Releases](https://github.com/harlansr/Bukittinggi_CashRegister_release/releases
+### Fitur Utama)
 
 - **Transaksi Cepat dan Akurat**: Aplikasi ini memungkinkan pengguna untuk melakukan transaksi dengan cepat dan akurat. Pengguna dapat memasukkan item yang dibeli dan secara otomatis menghitung jumlah pembayaran, mengurangi risiko kesalahan perhitungan.
 
@@ -13,11 +15,6 @@ Aplikasi Cash Register adalah sebuah solusi modern yang memudahkan pengelolaan t
 - **Pengaturan Pajak yang Fleksibel**: Aplikasi ini memberikan fleksibilitas dalam pengaturan pajak sesuai dengan kebijakan pemerintah daerah. Pengguna dapat mengatur tarif pajak, batas waktu pembayaran, dan jenis pajak yang berlaku untuk bisnis mereka. Pengaturan ini dapat disesuaikan dengan perubahan peraturan perpajakan yang terjadi dari waktu ke waktu.
 
 - **Keamanan Data**: Aplikasi ini memiliki keamanan data yang tinggi. Semua informasi transaksi dan data perpajakan dilindungi dengan enkripsi yang kuat. Aplikasi ini juga hanya memberikan akses kepada pengguna yang memiliki otoritas yang tepat, seperti pemilik usaha dan petugas perpajakan.
-
-
-### Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
