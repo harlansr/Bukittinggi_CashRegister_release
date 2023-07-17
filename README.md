@@ -17,6 +17,11 @@ ini bukan repositori untuk develop aplikasi Cash Register, repositori ini hanya 
 
 - **Keamanan Data**: Aplikasi ini memiliki keamanan data yang tinggi. Semua informasi transaksi dan data perpajakan dilindungi dengan enkripsi yang kuat. Aplikasi ini juga hanya memberikan akses kepada pengguna yang memiliki otoritas yang tepat, seperti pemilik usaha dan petugas perpajakan.
 
+
+- **Aplikasi Pendukung**
+```
+https://www.microsoft.com/en-us/download/details.aspx?id=35903
+```
 ---
 
 Gunakan aplikasi ini dengan bijak dan patuhi peraturan perpajakan yang berlaku di Kota Bukittinggi. Untuk informasi lebih lanjut, silakan hubungi Badan Keuangan Kota Bukittinggi.
