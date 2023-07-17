@@ -19,7 +19,9 @@ ini bukan repositori untuk develop aplikasi Cash Register, repositori ini hanya 
 
 
 - **Aplikasi Pendukung**
-- (Microsoft Update)[https://www.microsoft.com/en-us/download/details.aspx?id=35903]
+- (Microsoft Update 1)[https://www.microsoft.com/en-us/download/details.aspx?id=35903]
+- (Microsoft Update 2)[https://www.microsoft.com/en-us/download/details.aspx?id=49542]
+
 ---
 
 Gunakan aplikasi ini dengan bijak dan patuhi peraturan perpajakan yang berlaku di Kota Bukittinggi. Untuk informasi lebih lanjut, silakan hubungi Badan Keuangan Kota Bukittinggi.
