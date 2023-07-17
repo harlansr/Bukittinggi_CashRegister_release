@@ -19,8 +19,8 @@ ini bukan repositori untuk develop aplikasi Cash Register, repositori ini hanya 
 
 
 - **Aplikasi Pendukung**
-- (Microsoft Update 1)[https://www.microsoft.com/en-us/download/details.aspx?id=35903]
-- (Microsoft Update 2)[https://www.microsoft.com/en-us/download/details.aspx?id=49542]
+- [Microsoft Update 1](https://www.microsoft.com/en-us/download/details.aspx?id=35903)
+- [Microsoft Update 2](https://www.microsoft.com/en-us/download/details.aspx?id=49542)
 
 ---
 
